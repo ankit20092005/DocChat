@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How long does a new member have to activate their library card?",
+    "expected_doc": "Library handbook.pdf",
+    "expected_page": 2,
+    "expected_keywords": ["14 days", "after registration"]
+  },
+  {
+    "question": "Which room can a group of eight reserve for a workshop?",
+    "expected_doc": "Library handbook.pdf",
+    "expected_page": 5,
+    "expected_keywords": ["Map Room", "eight people"]
+  },
+  {
+    "question": "What was the attendance target for the autumn workshop series?",
+    "expected_doc": "Workshop review.pdf",
+    "expected_page": 3,
+    "expected_keywords": ["120 participants", "target"]
+  },
+  {
+    "question": "Why did the team move the evening session to Saturday?",
+    "expected_doc": "Workshop review.pdf",
+    "expected_page": 6,
+    "expected_keywords": ["last bus", "weekday evenings"]
+  },
+  {
+    "question": "How far in advance should a volunteer submit a travel reimbursement request?",
+    "expected_doc": "Volunteer guide.pdf",
+    "expected_page": 4,
+    "expected_keywords": ["five working days", "before travel"]
+  }
+]
